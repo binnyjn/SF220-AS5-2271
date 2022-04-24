@@ -1,0 +1,25 @@
+body{ margin-left: 70px;
+margin-right: 50px;
+}
+
+h1 { background-color:black;
+  color: white;
+  font-family:Courier New;
+  font-size: 45px;
+  text-align: center;
+   }
+
+
+
+.picture{
+  display: flex;
+  justify-content: center;
+        }
+
+figcaption{
+  font-size: 30px;
+  font-family:Arial;
+  text-align: center;
+          }
+
+footer{ text-align: center;}
